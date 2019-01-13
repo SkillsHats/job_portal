@@ -4,10 +4,10 @@
         
 		<meta charset="UTF-8">
 
-		<title>NerdGeek Lab</title>
-		<meta name="keywords" content="NerdGeek Lab" />
-		<meta name="description" content="NerdGeek Lab">
-		<meta name="author" content="nerdgeeklab.com">
+		<title>Job portal</title>
+		<meta name="keywords" content="Job Portal" />
+		<meta name="description" content="Portal">
+		<meta name="author" content="portal">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
         
 		<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800|Shadows+Into+Light" rel="stylesheet" type="text/css">
