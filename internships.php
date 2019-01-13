@@ -55,7 +55,7 @@ if($result->num_rows > 0) {
 						<div class="right-bar d-flex align-items-center">
 							<nav class="d-flex align-items-center">
 								<ul class="menu"> 
-									<li><a href="#top"><b>Home</b></a></li>
+									<li><a href="index.html"><b>Home</b></a></li>
 									<li><a href="index.html#services"><b>Services</b></a></li>
 									<li><a href="jobs.php"><b>Jobs</b></a></li>
 									<li><a href="internships.php"><b>Internship</b></a></li>
@@ -74,6 +74,7 @@ if($result->num_rows > 0) {
         <section style="margin-top: 120px">
 
             <div class="container">
+				<h4>Internships</h4>
                 <div class="row">
                     <div class="col-md-12">
                         <table id="job-table" class="table table-responsive" style="border:1px solid #F4F4F4; border-radius: 4px">

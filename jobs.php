@@ -30,9 +30,6 @@ if($result->num_rows > 0) {
 	<title>Portal</title>
 
 	<link href="https://fonts.googleapis.com/css?family=Poppins:300,500,600" rel="stylesheet">
-		<!--
-		CSS
-		============================================= -->
 		<link rel="stylesheet" href="css/linearicons.css">
 		<link rel="stylesheet" href="css/owl.carousel.css">
 		<link rel="stylesheet" href="css/font-awesome.min.css">
@@ -58,13 +55,13 @@ if($result->num_rows > 0) {
 						<div class="right-bar d-flex align-items-center">
 							<nav class="d-flex align-items-center">
 								<ul class="menu"> 
-									<li><a href="#top"><b>Home</b></a></li>
+									<li><a href="index.html"><b>Home</b></a></li>
 									<li><a href="#services"><b>Services</b></a></li>
 									<li><a href="jobs.php"><b>Jobs</b></a></li>
-									<li><a href="#blog"><b>Internship</b></a></li>
+									<li><a href="internships.php"><b>Internship</b></a></li>
 									<li><a href="#contact"><b>Contact</b></a></li>
 							        <li><a href="login.php"><b>Login</b></a></li>
-								    <li><a href="Signup"><b> SignUP </b></a></li>
+								    <li><a href="Signup"><b> SignUp </b></a></li>
 								</ul>
 							</nav>
 						</div>
@@ -75,8 +72,9 @@ if($result->num_rows > 0) {
     
 
         <section style="margin-top: 120px">
-
+			
             <div class="container">
+				<h4>Jobs</h4>
                 <div class="row">
                     <div class="col-md-12">
                         <table id="job-table" class="table table-responsive" style="border:1px solid #F4F4F4; border-radius: 4px">
