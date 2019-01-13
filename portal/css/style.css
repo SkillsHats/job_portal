@@ -1,0 +1,44 @@
+
+#job-form, 
+#intern-form {
+    background: #fff;
+    padding: 40px 30px;
+    border-radius: 4px
+}
+
+.sidebar-left {
+    width: 250px;
+}
+
+@media only screen and (min-width: 768px){
+    html.fixed .page-header {
+        left: 250px;
+    }
+} 
+
+@media only screen and (min-width: 768px){
+    html.fixed .content-body {
+        margin-left: 250px;
+    }
+} 
+
+.form-control[disabled],
+.form-control[readonly],
+fieldset[disabled] .form-control {
+    background-color: #f3f3f3 !important;
+}
+
+
+
+#testForm {
+    background: #fff;
+    padding: 40px 30px;
+    border-radius: 4px;
+    display: none;
+}
+
+.testForm {
+    background: #fff !important;
+    padding: 40px 30px;
+    border-radius: 4px;
+}
